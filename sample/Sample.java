@@ -1,8 +1,5 @@
-class Sample{
-    public static void main(String[] args){
-        System.out.println("Hello World");
-        int maxRange = Integer.MAX_VALUE;
-        int minRange = Integer.MIN_VALUE;
-    System.out.println(minRange + " - 0 - " + maxRange);
+class Sample{   //class declaration
+    public static void main(String[] args){     //declaring main method
+        System.out.println("Hello World");      // output statement
     }
 }
