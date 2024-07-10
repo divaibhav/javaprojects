@@ -16,7 +16,7 @@ double value from the console, then converts it to Fahrenheit and displays the r
     >The formula for the conversion is as follows:
     >fahrenheit = (9 / 5) * celsius + 32
 
-    >Hint: In C++, 9 / 5 is 1, but 9.0 / 5 is 1.8.
+    >Hint: In Java, 9 / 5 is 1, but 9.0 / 5 is 1.8.
 
 6. Write a program that calculates the energy needed to
 heat water from an initial temperature to a final temperature. Your program should prompt the user to enter the amount of water in kilograms and the initial and final temperatures of the water.
