@@ -9,7 +9,8 @@ class UserInputOutput{
     public static void main(String[] args){
         //step 3
         int number1;
-        double number2;
+        double number2 = 3.14;
+    
         //step 4 Scanner class object declare and initialize
         Scanner scanner = new Scanner(System.in);
         System.out.println("enter age");
