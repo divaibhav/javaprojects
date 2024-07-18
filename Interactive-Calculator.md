@@ -4,7 +4,7 @@ Design and implement an interactive calculator that provides a menu-driven inter
 ### Objective
 The main objective is to create a user-friendly calculator that allows users to select from a variety of mathematical operations via a menu, input the required values, and receive accurate results. 
 
-The calculator should also provide options to clear inputs, and exit the application.
+The calculator should also provide option to exit the application.
 
 ### Menu Options
 ```
