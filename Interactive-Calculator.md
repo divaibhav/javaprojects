@@ -25,7 +25,6 @@ Exit: Press 5
 
 ### Programing Instructions
 1. Use proper naming conventions.
-2. Use meaningful names for program eleemnts.
+2. Use meaningful names for program elements.
 3. Use proper spacing and indentation for better readability of code.
 4. Do not use comma seprated variable declaration.
-5. Use seprate cin statement for reading multiple values.
